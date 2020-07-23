@@ -21,6 +21,7 @@
     </div>
 </template>
 <script>
+// 修改后再次提交到github
 import api from "../../api"
 import { mapMutations } from "vuex"
 export default {
